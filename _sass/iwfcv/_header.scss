@@ -4,5 +4,36 @@
     text-decoration: none;
     font-size: 2em;
     font-weight: 800;
+    vertical-align: top;
+    .header_top_logo__iwfcv {
+      font-size: 2.1em;
+      color: var(--iwfcv-blue-300);
+    }
+    .header_top_logo__year {
+      color: var(--common-text);
+    }
+  }
+}
+
+.header_nav_wrapper {
+  .header_nav {
+    display: flex;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+    font-size: 1.1em;
+    a.header_nav__link {
+      margin: 0;
+      padding: 0;
+      border: 0;
+      color: var(--common-text);
+      text-decoration: none;
+      &:hover, &:focus {
+        text-decoration: underline;
+        color: var(--common-text);
+        background: var(--common-bg);
+      }
+    }
   }
 }

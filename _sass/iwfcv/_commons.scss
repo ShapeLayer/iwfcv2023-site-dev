@@ -1,6 +1,7 @@
 html {
   width: 100%;
-  font-family: 'Pretendard', -apple-system, sans-serif;
+  font-family: 'Pretendard', 'Noto Sans KR', 'Noto Sans JP',
+    -apple-system, sans-serif;
   font-weight: 400;
   overflow-x: hidden;
   --iwfcv-blue-100: #3DCDE0;
@@ -8,4 +9,65 @@ html {
   --iwfcv-blue-300: #3476ED;
   --iwfcv-blue-400: #3E6AF7;
   --iwfcv-blue-500: #403BED;
+  --common-text: #000;
+  --common-gray: #d1d1d1;
+  --common-bg: #fff;
+}
+
+body {
+  width: 100%;
+  color: var(--common-text);
+}
+
+main {
+  width: 100%;
+  max-width: 720px;
+  min-height: 60vh;
+  margin: auto;
+  padding: 0 1.5em;
+  p {
+    line-height: 1.6;
+    margin-bottom: 1em;
+  }
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 2.5em;
+}
+
+b {
+  font-weight: bold;
+}
+
+a {
+  color: var(--iwfcv-blue-300);
+  background-color: var(--common-bg);
+  transition: .2s ease-in-out;
+  font-weight: 500;
+  &:hover, &:focus {
+    transition: .2s ease-in-out;
+    color: var(--common-bg);
+    background: var(--iwfcv-blue-300);
+  }
+}
+
+article {
+  header.article-header {
+    margin-bottom: 15px;
+  }
+}
+
+.hr {
+  margin: auto;
+  width: 70%;
+  max-width: 300px;
+  height: 1.5px;
+  border: none;
+  background-color: var(--common-gray);
+}
+
+::selection {
+  color: var(--common-bg);
+  background-color: rgba(62, 106, 247, .6);
 }
