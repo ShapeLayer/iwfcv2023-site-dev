@@ -37,6 +37,10 @@ h1 {
   font-weight: bold;
   font-size: 2.5em;
 }
+h2 {
+  font-weight: bold;
+  font-size: 2em;
+}
 
 b {
   font-weight: bold;
@@ -45,10 +49,10 @@ b {
 a {
   color: var(--iwfcv-blue-300);
   background-color: var(--common-bg);
-  transition: .2s ease-in-out;
+  transition: .1s ease-in-out;
   font-weight: 500;
   &:hover, &:focus {
-    transition: .2s ease-in-out;
+    transition: .1s ease-in-out;
     color: var(--common-bg);
     background: var(--iwfcv-blue-300);
   }
@@ -58,6 +62,24 @@ article {
   width: 100%;
   header.article-header {
     margin-bottom: 15px;
+  }
+}
+
+article.category {
+  .categories {
+    display: flex;
+    flex-direction: column;
+    gap: 1.3em;
+    .each-category {
+      h2 {
+        margin-bottom: .3em;
+      }
+      ul {
+        display: flex;
+        flex-direction: column;
+        gap: .3em;
+      }
+    }
   }
 }
 

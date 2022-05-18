@@ -4,7 +4,11 @@
   <body>
     {%- include header.html -%}
     <main>
-      {%- include article.html -%}
+      {% if page.class == "category" %}
+        {%- include category.html -%}
+      {% else %}
+        {%- include article.html -%}
+      {% endif %}
     </main>
     {%- include footer.html -%}
   </body>
