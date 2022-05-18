@@ -25,9 +25,11 @@ main {
   min-height: 60vh;
   margin: auto;
   padding: 0 1.5em;
+  box-sizing: border-box;
   p {
     line-height: 1.6;
     margin-bottom: 1em;
+    width: 100%;
   }
 }
 
@@ -53,6 +55,7 @@ a {
 }
 
 article {
+  width: 100%;
   header.article-header {
     margin-bottom: 15px;
   }
