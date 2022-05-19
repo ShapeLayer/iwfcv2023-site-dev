@@ -1,6 +1,6 @@
 ---
-title: Updates
+title: News
 layout: default
-permalink: /updates
+permalink: /news
 class: category
 ---

@@ -6,6 +6,8 @@
     <main>
       {% if page.class == "category" %}
         {%- include category.html -%}
+      {% elsif page.class == "home" %}
+        {%- include home.html -%}
       {% else %}
         {%- include article.html -%}
       {% endif %}

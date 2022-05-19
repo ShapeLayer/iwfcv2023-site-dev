@@ -1,6 +1,6 @@
 ---
 title: IW-FCV 2023 has been begun
-layout: default
+layout: home
 ---
 
 **The International Workshop on Frontiers of Computer Vision (IW-FCV) is the exciting chance and place for inter-communication and discussion through many presentations of the advanced researches from the worldwide research communities of computer vision theory, applications, deep learning and big data.**  
