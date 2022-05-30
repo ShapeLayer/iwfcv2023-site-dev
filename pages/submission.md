@@ -5,7 +5,7 @@ permalink: /submission
 ---
 ## Paper Submission Instructions
 
-### Paper format
+### Paper Submission format
 
 Submitting papers should be formatted with the following paper templates (Springer Computer Science Proceedings format).
 
