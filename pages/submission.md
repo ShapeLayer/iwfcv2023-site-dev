@@ -21,6 +21,13 @@ Extended summary: 2-8 pages
 
 Paper submission is handled via EasyChair : Link
 
+## Submission Date
+
+## Presentation Format
+
+## Submit Paper
+[Submit paper to EasyChair](https://easychair.org/)
+
 ## Post-Workshop Proceedings
 
 The organizing committee will publish the post-workshop proceedings of IW-FCV2022 as a Springer Communications in Computer and Information Science (CCIS) series after the workshop. The post-workshop proceedings will include only high-quality papers selected by reviewers.
