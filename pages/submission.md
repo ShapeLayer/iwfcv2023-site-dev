@@ -5,32 +5,49 @@ permalink: /submission
 ---
 ## Paper Submission Instructions
 
-### Paper Submission format
+### Paper Submission Format
 
-Submitting papers should be formatted with the following paper templates (Springer Computer Science Proceedings format).
+Submitting papers should be formatted with the following paper templates (Springer Computer Science Proceedings format).  
+Formatting templates for MS-Word and LaTeX, as well as the link to Overleaf, are available: [Template file download link](#)
 
-Formatting templates for MS-Word and LaTeX, as well as the link to Overleaf, are available on the Springer webpage: Link
+IW-FCV2023 accepts the following three paper types.
+* Full paper: 12-15 pages
+* Short paper: 2-8 pages
+* Extended summary: 2-8 pages
 
-Paper type: IW-FCV2022 accepts the following three paper types.
+### Submission Date
+* Registration Deadline: TBA
+* Notification of Acceptance: TBA
+* Paper Submission Deadline: TBA
 
-Full paper: 12-15 pages
 
-Short paper: 2-8 pages
+### Submit Paper
+Paper submission is handled via EasyChair.  
 
-Extended summary: 2-8 pages
-
-Paper submission is handled via EasyChair : Link
-
-## Submission Date
-
-## Presentation Format
-
-## Submit Paper
 [Submit paper to EasyChair](https://easychair.org/)
+
+## Presentation Instructions
+### Oral Presentation Instructions
+Each oral presentation is allocated 15 minutes: 10 minutes for presentation + 5 minutes for Q&A and setup. And each extended-summary presentation is allocated 5 minutes for presentation + 2 minutes for Q&A and setup.
+
+At the workshop, 10 minutes before your session, you must:
+
+Introduce yourself to your session chair in the presentation room
+Test your laptop or upload your slides to the conference computer
+If you use the conference computer, remember to embed (and not link) all videos into the presentation file
+
+The LCD projector has both VGA and HDMI connections. While the projector is compatible with wide-size (16:9 or 16:10) presentation slides, the size (aspect ratio) of the screen is standard-size (4:3). So, be sure that a wide-size presentation will be reduced in size to fit the screen width.
+
+The speed of the internet connection will be limited. We do not recommend you to use video-streaming or online-demonstration in your presentation.
+
+## Poster Presentation Instructions
+The poster panels can accommodate posters of A0 portrait size. Please use sufficiently large fonts for readability. We do not specify any poster templates and can not provide poster-printing services.
+
+The location of your poster will be identified by the paper number from the program. Materials to attach your poster to the board (before 9 am of your day of presentation) will be provided. Each poster is to be presented for a full day.
 
 ## Post-Workshop Proceedings
 
-The organizing committee will publish the post-workshop proceedings of IW-FCV2022 as a Springer Communications in Computer and Information Science (CCIS) series after the workshop. The post-workshop proceedings will include only high-quality papers selected by reviewers.
+<!--The organizing committee will publish the post-workshop proceedings of IW-FCV2022 as a Springer Communications in Computer and Information Science (CCIS) series after the workshop. The post-workshop proceedings will include only high-quality papers selected by reviewers.
 
 The condition under which a paper is subject to peer review for inclusion in the post-workshop proceedings are as follows:
 
@@ -45,4 +62,6 @@ When submitting a camera-ready version, the authors should complete and sign a C
 
 The post-workshop proceedings will be included in Springer Link Digital Library. And workshop attendees will have free access for four weeks after the post-workshop proceedings are published.
 
-Authors should consult [Springer's authors' guidelines] and use their proceedings templates for the preparation of their papers. Springer encourages authors to include their ORCIDs in their papers. Please kindly refer to [the editorial policies webpage] and note the importance of this.
+Authors should consult [Springer's authors' guidelines] and use their proceedings templates for the preparation of their papers. Springer encourages authors to include their ORCIDs in their papers. Please kindly refer to [the editorial policies webpage] and note the importance of this.-->
+
+(Blinded)

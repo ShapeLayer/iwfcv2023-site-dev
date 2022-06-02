@@ -30,6 +30,8 @@ permalink: /registration
 
 ## Hotel Registration
 
+* 자세한 호텔 등록 정보
+
 {%- include venue_image.html -%}
 
 * [Reservation at offical site](https://www.utopmarina.com/view/index.do?SS_SVC_LANG_CODE=ENG)
