@@ -6,3 +6,7 @@ class: centerize
 ---
 
 ## TBA
+<!--
+### Keynote Speech
+### Schedule
+-->
