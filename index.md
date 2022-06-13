@@ -12,14 +12,11 @@ class: home
 
 [환영인사]
 
-## General Information
-
-
 **The International Workshop on Frontiers of Computer Vision (IW-FCV) is the exciting chance and place for inter-communication and discussion through many presentations of the advanced researches from the worldwide research communities of computer vision theory, applications, deep learning and big data.**  
 
 ## What's New
 
-* 2022/05/31: [IWFCV 2023 has been opened.](/)
+* 2022/05/31: [IW-FCV 2023 has been opened.](/)
 * _See [news page](/news) for more information_{: .gray}
 
 ## Venue and Events

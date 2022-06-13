@@ -1,14 +1,14 @@
 ---
-title: Attending
+title: Attend
 layout: default
-permalink: /attending
+permalink: /attend
 ---
 
-IWFCV 2023은 푸르고 맑은 바다의 도시, 여수에서 개최됩니다.  
-IWFCV 2023에 참여하려면 어떻게 준비해야하는지 알아보세요.  
+IW-FCV 2023은 푸르고 맑은 바다의 도시, 여수에서 개최됩니다.  
+IW-FCV 2023에 참여하려면 어떻게 준비해야하는지 알아보세요.  
 
 ## Venue
-IWFCV 2023은 바다를 낀 여수 엑스포장이 한눈에 보이는 유탑 마리나 호텔에서 주최됩니다.  
+IW-FCV 2023은 바다를 낀 여수 엑스포장이 한눈에 보이는 유탑 마리나 호텔에서 주최됩니다.  
 아름다운 여수 바다의 낮과 밤과 함께 그동안의 연구 성과를 발표해보세요.
 
 * **Utop Marina Hotel**  
